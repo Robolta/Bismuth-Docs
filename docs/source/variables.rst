@@ -14,15 +14,3 @@ ushort   integer  0 to 65,536
 int   integer  1-(2^31) to 2^31
 uint  integer  0 to 2^32
 ===== ===== =====
-
-=====  =====  =====
-   Inputs     Output
-------------  -----
-  A      B    A or B
-=====  =====  =====
-False  False  False
-True   False  True
-False  True   True
-True   True   True
-=====  =====  =====
-
