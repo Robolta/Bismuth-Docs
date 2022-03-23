@@ -3,8 +3,8 @@
 # -- Project information
 
 project = 'Bismuth'
-copyright = '2021, Graziella'
-author = 'Graziella'
+#copyright = '2021, Graziella'
+#author = 'Graziella'
 
 release = '0.0'
 version = '0.0.0'
