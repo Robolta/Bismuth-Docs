@@ -1,7 +1,7 @@
 Bismuth
 ===================================
 
-**Bismuth** is an `Intermediate Language <https://en.wikipedia.org/wiki/Intermediate_representation#Intermediate_language>` designed to compile to various `Redstone <https://minecraft.fandom.com/wiki/Redstone_circuits>` CPUs.
+**Bismuth** is an `Intermediate Language <https://en.wikipedia.org/wiki/Intermediate_representation#Intermediate_language>`_ designed to compile to various `Redstone <https://minecraft.fandom.com/wiki/Redstone_circuits>`_ CPUs.
 Bismuth focuses on the following goals:
 - Full documentation for every version
 - An updated changelog of every change, however minor
