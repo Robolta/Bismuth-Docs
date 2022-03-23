@@ -6,6 +6,7 @@ Data Types
 
 ===== ===== =====
 Type  Category Range
+----- ----- -----
 ===== ===== =====
 byte  integer  -127 to 128
 ubyte integer  0 to 128
