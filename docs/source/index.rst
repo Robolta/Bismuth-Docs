@@ -1,4 +1,4 @@
-Official Documentation for the Bismuth Language
+The Bismuth Language
 ===================================
 
 **Bismuth** is an `Intermediate Language <https://en.wikipedia.org/wiki/Intermediate_representation#Intermediate_language>`_ designed to compile to various `Redstone <https://minecraft.fandom.com/wiki/Redstone_circuits>`_ CPUs.
