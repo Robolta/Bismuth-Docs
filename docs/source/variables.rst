@@ -19,7 +19,7 @@ char (ubyte)            string      0 to 255 (ASCII)
 string (ubyte array)    string      N/A
 ====================    ========    ===================
 
-.. list-table:: Title
+.. list-table::
    :widths: 25 25 50
    :header-rows: 1
 
