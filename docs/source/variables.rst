@@ -15,6 +15,7 @@ int                     integer     -(2^31) to 2^31 - 1
 uint                    integer     0 to 2^32
 long                    integer     -(2^63) to 2^63 - 1
 ulong                   integer     0 to 2^64
+--------------------    --------    -------------------
 char (ubyte)            string      0 to 255 (ASCII)
 string (ubyte array)    string      N/A
 ====================    ========    ===================
